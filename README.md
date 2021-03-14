@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mams
+### Hi there 👋, I'm Maks
 
 ## I'm a Junior Web developer,
 
