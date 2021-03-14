@@ -3,7 +3,8 @@
 ## I'm a Junior Web developer,
 
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
+- 🎉 I like fishing and going to the gym
+- 🎉 I also have a page about Space on Instagram
 - 🥅 I am constantly learning new things
 
 ### Languages and Tools:
